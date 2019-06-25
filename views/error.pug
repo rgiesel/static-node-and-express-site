@@ -1,0 +1,7 @@
+extends layout.pug
+
+block content
+  h2= `${error.message}`
+  h2= `Status: ${error.status}`
+  p= `Stack: ${error.stack}`
+  a.button(href='/') Return Home

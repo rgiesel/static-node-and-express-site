@@ -1,0 +1,49 @@
+{
+  "projects":[
+    {
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "This is a project.",
+      "technologies": ["JavaScript"],
+      "live_link": "http://google.com",
+      "github_link": "http://google.com",
+      "image_urls": "https://www.arbico-organics.com/images/uploads/1112525_ladybugs_600x600.jpg"
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "This is a project.",
+      "technologies": ["JavaScript"],
+      "live_link": "http://google.com",
+      "github_link": "http://google.com",
+      "image_urls": "https://www.arbico-organics.com/images/uploads/1112525_ladybugs_600x600.jpg"
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "This is a project.",
+      "technologies": ["JavaScript"],
+      "live_link": "http://google.com",
+      "github_link": "http://google.com",
+      "image_urls": "https://www.arbico-organics.com/images/uploads/1112525_ladybugs_600x600.jpg"
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "This is a project.",
+      "technologies": ["JavaScript"],
+      "live_link": "http://google.com",
+      "github_link": "http://google.com",
+      "image_urls": "https://www.arbico-organics.com/images/uploads/1112525_ladybugs_600x600.jpg"
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "This is a project.",
+      "technologies": ["JavaScript"],
+      "live_link": "http://google.com",
+      "github_link": "http://google.com",
+      "image_urls": "https://www.arbico-organics.com/images/uploads/1112525_ladybugs_600x600.jpg"
+    }
+  ]
+}
